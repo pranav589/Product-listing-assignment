@@ -2,6 +2,22 @@
   text-align: center;
 }
 
+.site-layout-content {
+  min-height: 82vh;
+  padding: 24px;
+  background: #fff;
+}
+
+.gutter-row {
+  margin-bottom: 15px;
+}
+
+.selectMenuItem {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  min-height: 120px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
